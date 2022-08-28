@@ -26,7 +26,6 @@ public class StudentController {
                         Gender.MALE)
         );
         return students;
-
     }
 }
 
